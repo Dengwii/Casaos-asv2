@@ -31,7 +31,7 @@ services:
 x-casaos:
   id: org.icewhale.readarr
   main: readarr
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.readarr/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.readarr/assets/icon.svg
   title:
     en_US: Readarr
   port_map: "8787"

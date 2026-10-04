@@ -40,7 +40,7 @@ x-casaos:
     sv_SE: CopyParty
     tr_TR: CopyParty
     zh_CN: CopyParty
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.copyparty/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.copyparty/assets/icon.svg
   index: /
   main: copyparty
   port_map: "29708"

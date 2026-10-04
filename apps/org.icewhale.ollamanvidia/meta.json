@@ -21,7 +21,7 @@
   "docs": "https://docs.ollama.com",
   "title": "Ollama(Nvidia GPU)",
   "release_note": "- v0.9.5 updates the macOS and Windows applications.\n- Ollama can now be exposed on the network, and the model storage directory can be changed.\n- The macOS app is now native with a smaller footprint and faster startup, and fixes include CLI installation and notarization issues.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.ollamanvidia",
   "version": "0.9.5",
   "categories": [
@@ -29,7 +29,7 @@
   ],
   "min_memory": 2147483648,
   "min_image_size": {
-    "amd64": 1168433570,
-    "arm64": 1986902899
+    "amd64": 0,
+    "arm64": 0
   }
 }

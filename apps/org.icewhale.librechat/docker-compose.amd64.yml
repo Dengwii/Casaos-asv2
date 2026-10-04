@@ -7,7 +7,7 @@ services:
     depends_on:
       - librechat-mongodb
       - librechat-rag-api
-    image: ghcr.io/danny-avila/librechat-dev:latest@sha256:6d839fbf4d9170339e8c5e32895d5b6b5e9c7791a2eb39ff36ee6acaacf57155
+    image: ghcr.io/danny-avila/librechat-dev:latest@sha256:5fd74fb84d4a4a298854330c09b9dcf228f14f79b23c6e51d090917d0b06b2d2
     restart: unless-stopped
     extra_hosts:
       - "host.docker.internal:host-gateway"
@@ -173,5 +173,5 @@ x-casaos:
     zh_CN: LibreChat
   port_map: "3080"
   scheme: http
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.librechat/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.librechat/assets/icon.svg
   version: "0.8.7-rc1"

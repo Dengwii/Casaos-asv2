@@ -24,7 +24,7 @@
   "docs": "https://github.com/mrmn2/PdfDing#readme",
   "title": "PdfDing",
   "release_note": "- v1.7.2 updates dependencies for a security update.\n- The mrmn/pdfding:v1.7.2 Docker image tag was published on 2026-04-12.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.pdfding",
   "version": "1.7.2",
   "categories": [
@@ -32,7 +32,7 @@
   ],
   "min_memory": 134217728,
   "min_image_size": {
-    "amd64": 72612791,
-    "arm64": 70572120
+    "amd64": 0,
+    "arm64": 0
   }
 }

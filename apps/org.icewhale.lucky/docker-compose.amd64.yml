@@ -18,7 +18,7 @@ services:
 x-casaos:
   id: org.icewhale.lucky
   main: lucky
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.lucky/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.lucky/assets/icon.svg
   index: /
   title:
     en_US: Lucky

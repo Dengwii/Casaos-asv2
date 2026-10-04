@@ -24,7 +24,7 @@
   "docs": "https://wiki.servarr.com/radarr",
   "title": "Radarr",
   "release_note": "- Radarr 6.3.0.10514 fixes imports from Simkl lists and Custom Formats that use the year.\n- Updates FFprobe to 5.1.10 and includes qBittorrent authentication fixes.\n- Docker users should update the container image rather than use the in-app updater.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.radarr",
   "version": "6.3.0",
   "categories": [
@@ -32,7 +32,7 @@
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 93062258,
-    "arm64": 91457436
+    "amd64": 0,
+    "arm64": 0
   }
 }

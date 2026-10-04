@@ -28,7 +28,7 @@
   "docs": "https://docs.nextcloud.com/server/latest/admin_manual/",
   "title": "Nextcloud",
   "release_note": "- Nextcloud 33.0.3 includes server fixes for external storage options, sharing user ID alignment, OAuth2 throttle metadata, and iCalendar event URI search.\n- The release improves preview regeneration, chunked upload parallel-count handling, drag-and-drop folder uploads, zip downloads, dashboard/settings edge cases, and LDAP configuration flows.\n- The nextcloud:33.0.3 Docker image tag was published on 2026-05-23.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.nextcloud",
   "version": "33.0.3",
   "categories": [
@@ -36,11 +36,11 @@
   ],
   "min_memory": 536870912,
   "min_image_size": {
-    "386": 505306508,
-    "amd64": 504288210,
-    "arm": 475241843,
-    "arm64": 495333752,
-    "ppc64le": 503688979,
-    "s390x": 478420034
+    "386": 0,
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0,
+    "ppc64le": 0,
+    "s390x": 0
   }
 }

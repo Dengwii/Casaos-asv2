@@ -23,7 +23,7 @@
   "docs": "https://docs.linuxserver.io/images/docker-unifi-network-application/#ports-p",
   "title": "Unifi Network Application",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.unifinetworkapplication",
   "version": "10.4.57-ls133",
   "categories": [
@@ -31,7 +31,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 487454483,
-    "arm64": 474069556
+    "amd64": 314914154,
+    "arm64": 313499334
   }
 }

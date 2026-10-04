@@ -20,7 +20,7 @@
   "docs": "https://fileflows.com/docs",
   "title": "FileFlows",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.fileflows",
   "version": "0.0.1",
   "categories": [
@@ -28,7 +28,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 1021464202,
-    "arm64": 809421937
+    "amd64": 811770604,
+    "arm64": 603614383
   }
 }

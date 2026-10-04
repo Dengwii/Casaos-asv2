@@ -1,7 +1,7 @@
 name: nginxproxymanager
 services:
   nginxproxymanager:
-    image: jc21/nginx-proxy-manager:2.13.5@sha256:0aa1be5dc78f17be44cc8efe53cd2ad355fcb1058bb5f5ae13036827f15ab802
+    image: jc21/nginx-proxy-manager:2.13.5
     deploy:
       resources:
         reservations:
@@ -29,7 +29,7 @@ services:
 x-casaos:
   id: org.icewhale.nginxproxymanager
   main: nginxproxymanager
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.nginxproxymanager/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.nginxproxymanager/assets/icon.svg
   title:
     en_US: Nginx Proxy Manager
     zh_CN: Nginx 代理管理器

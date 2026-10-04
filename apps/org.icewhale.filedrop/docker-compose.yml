@@ -23,7 +23,7 @@ services:
 x-casaos:
   id: org.icewhale.filedrop
   main: filedrop
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.filedrop/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.filedrop/assets/icon.svg
   title:
     en_US: FileDrop
   port_map: "8000"

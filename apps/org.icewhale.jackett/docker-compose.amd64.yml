@@ -28,7 +28,7 @@ services:
 x-casaos:
   id: org.icewhale.jackett
   main: jackett
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.jackett/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.jackett/assets/icon.svg
   title:
     en_US: Jackett
   index: /

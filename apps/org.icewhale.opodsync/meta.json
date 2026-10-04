@@ -19,7 +19,7 @@
   "docs": "https://github.com/kd2org/oPodSync#readme",
   "title": "oPodSync",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.opodsync",
   "version": "0.0.1",
   "categories": [
@@ -27,7 +27,7 @@
   ],
   "min_memory": 536870912,
   "min_image_size": {
-    "amd64": 47179115,
-    "arm64": 47001558
+    "amd64": 0,
+    "arm64": 0
   }
 }

@@ -2,7 +2,7 @@ name: pyload
 services:
   pyload:
     container_name: pyload
-    image: linuxserver/pyload-ng:0.5.0@sha256:db1983972c476a716f11cdf5f52c781f7642ef5cd80ecc0788d5ee4c3b6212bb
+    image: linuxserver/pyload-ng:0.5.0
     deploy:
       resources:
         reservations:
@@ -32,7 +32,7 @@ services:
 x-casaos:
   id: org.icewhale.pyload
   main: pyload
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.pyload/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.pyload/assets/icon.svg
   title:
     en_US: PyLoad
     zh_CN: PyLoad

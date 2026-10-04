@@ -100,7 +100,7 @@ networks:
 x-casaos:
   id: org.icewhale.archivebox
   main: archivebox
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.archivebox/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.archivebox/assets/icon.svg
   scheme: http
   port_map: "18010"
   index: /

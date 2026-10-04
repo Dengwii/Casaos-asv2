@@ -82,7 +82,7 @@ x-casaos:
     sv_SE: OpenClaw
     tr_TR: OpenClaw
     zh_CN: OpenClaw
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.openclaw/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.openclaw/assets/icon.svg
   main: openclaw
   port_map: "24190"
   index: /#token=casaos

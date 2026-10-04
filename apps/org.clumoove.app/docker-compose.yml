@@ -91,7 +91,7 @@ networks:
 x-casaos:
   id: org.clumoove.app
   main: frontend
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.clumoove.app/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.clumoove.app/assets/icon.svg
   title:
     en_US: Clumoove
     de_DE: Clumoove

@@ -22,7 +22,7 @@
   "docs": "https://triliumnext.github.io/Docs/",
   "title": "Trilium",
   "release_note": "- TriliumNext v0.103.0 adds beta spreadsheet notes and expands anchors so they can be linked across notes and inserted with a slash command.\n- Back-end scripting removes deprecated api.axios and deprecates api.cheerio; use the documented alternatives before relying on those APIs.\n- Fixes cover save indicator behavior, table-of-contents refreshes, horizontal scrolling, mobile add-button snapping, note reordering reactions, and board URL quick edits.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.trilium",
   "version": "0.103.0",
   "categories": [
@@ -30,8 +30,8 @@
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 137855474,
-    "arm": 152506037,
-    "arm64": 161280969
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0
   }
 }

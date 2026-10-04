@@ -19,7 +19,7 @@
   "docs": "https://github.com/psi-4ward/psitransfer#readme",
   "title": "PsiTransfer",
   "release_note": "- v2.4.1 includes security fixes and should be updated.\n- UTF-8 support was added for content disposition in file downloads.\n- Dependencies and changelog generation were updated.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.psitransfer",
   "version": "2.4.1",
   "categories": [
@@ -27,7 +27,7 @@
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 95686027,
-    "arm64": 96840182
+    "amd64": 0,
+    "arm64": 0
   }
 }

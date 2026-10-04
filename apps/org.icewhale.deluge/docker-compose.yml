@@ -34,7 +34,7 @@ services:
 x-casaos:
   id: org.icewhale.deluge
   main: deluge
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.deluge/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.deluge/assets/icon.svg
   title:
     en_US: Deluge
   index: /

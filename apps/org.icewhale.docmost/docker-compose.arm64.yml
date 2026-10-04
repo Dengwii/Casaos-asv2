@@ -57,7 +57,7 @@ networks:
 x-casaos:
   id: org.icewhale.docmost
   main: docmost
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.docmost/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.docmost/assets/icon.svg
   scheme: http
   port_map: "3000"
   index: /

@@ -21,7 +21,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.trilium
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.trilium/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.trilium/assets/icon.svg
   index: /
   port_map: "8088"
   scheme: http

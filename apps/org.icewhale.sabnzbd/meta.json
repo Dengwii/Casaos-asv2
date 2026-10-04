@@ -26,7 +26,7 @@
   "docs": "https://sabnzbd.org/wiki/",
   "title": "Sabnzbd",
   "release_note": "- SABnzbd 5.0.3 includes the fifth major release updates with NNTP pipelining, direct write, a reworked cache, safer processing, and platform updates.\n- Fixes in 5.0.1 through 5.0.3 cover new-install NZB fetching, queue loading after upgrade, duplicate nzo_id handling, RSS priority, duplicate filename stalls, IPv6 binding, and post-processing queue saves.\n- The linuxserver/sabnzbd:5.0.3 Docker image tag was published on 2026-05-21.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.sabnzbd",
   "version": "5.0.3",
   "categories": [
@@ -34,7 +34,7 @@
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 63234094,
-    "arm64": 62762785
+    "amd64": 0,
+    "arm64": 0
   }
 }

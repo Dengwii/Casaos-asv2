@@ -19,7 +19,7 @@
   "docs": "https://github.com/ggml-org/llama.cpp/blob/master/docs/server.md",
   "title": "llama.cpp",
   "release_note": "Initial release: llama.cpp server with Vulkan GPU acceleration (ghcr.io/ggml-org/llama.cpp:server).",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.llamacpp",
   "version": "1.0.0",
   "categories": [
@@ -27,7 +27,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 307956313,
-    "arm64": 295253923
+    "amd64": 311099749,
+    "arm64": 297661493
   }
 }

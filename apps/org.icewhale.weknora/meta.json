@@ -21,7 +21,7 @@
   "docs": "https://github.com/Tencent/WeKnora#readme",
   "title": "WeKnora",
   "release_note": "- v0.2.14 prioritizes environment variables over Git tags for version detection.\n- Completion URL host extraction now handles both v1 and non-v1 endpoints.\n- Parser chunk index logging was fixed, Ollama retest icon alignment was improved, and pg_search migration files were added.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.weknora",
   "version": "0.2.14",
   "categories": [
@@ -29,7 +29,7 @@
   ],
   "min_memory": 3221225472,
   "min_image_size": {
-    "amd64": 3394964778,
-    "arm64": 3157958110
+    "amd64": 0,
+    "arm64": 0
   }
 }

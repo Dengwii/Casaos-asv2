@@ -23,7 +23,7 @@ services:
 x-casaos:
   id: io.github.samtv12345.podfetch
   main: podfetch
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/io.github.samtv12345.podfetch/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/io.github.samtv12345.podfetch/assets/icon.png
   title:
     en_US: PodFetch
   index: /

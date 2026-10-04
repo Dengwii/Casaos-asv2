@@ -23,7 +23,7 @@ services:
 x-casaos:
   id: org.icewhale.labelstudio
   main: label-studio
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.labelstudio/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.labelstudio/assets/icon.svg
   title:
     en_US: Label Studio
   port_map: "3080"

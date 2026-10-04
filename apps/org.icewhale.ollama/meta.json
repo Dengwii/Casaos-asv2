@@ -21,7 +21,7 @@
   "docs": "https://docs.ollama.com",
   "title": "Ollama",
   "release_note": "- Ollama 0.24.0 adds Codex App support through the ollama launch codex-app command.\n- The release includes built-in browser and review-mode support for the Codex App workflow.\n- It also reworks the MLX sampler for improved generation quality on Apple Silicon.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.ollama",
   "version": "0.24.0",
   "categories": [
@@ -29,7 +29,7 @@
   ],
   "min_memory": 2147483648,
   "min_image_size": {
-    "amd64": 4010926584,
-    "arm64": 3231204638
+    "amd64": 0,
+    "arm64": 0
   }
 }

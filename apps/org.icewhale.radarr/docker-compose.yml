@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.radarr
   main: radarr
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.radarr/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.radarr/assets/icon.svg
   title:
     en_US: Radarr
   index: /

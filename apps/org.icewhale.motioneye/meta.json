@@ -19,7 +19,7 @@
   "docs": "https://github.com/motioneye-project/motioneye/wiki",
   "title": "Motioneye",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.motioneye",
   "version": "0.44.0",
   "categories": [
@@ -27,6 +27,6 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 157113934
+    "amd64": 0
   }
 }

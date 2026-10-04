@@ -30,7 +30,7 @@
   "docs": "https://playit.gg/docs",
   "title": "Playit Agent",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.playitagent",
   "version": "1.0.10",
   "categories": [

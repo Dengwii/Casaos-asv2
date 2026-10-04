@@ -23,7 +23,7 @@
   "docs": "https://github.com/dani-garcia/vaultwarden/wiki",
   "title": "Vaultwarden",
   "release_note": "- Vaultwarden 1.36.0 contains security fixes for SSO login CSRF, user and organization enumeration, SSO existing-user binding, SSRF via the icon endpoint, and crate updates.\n- This release also adds support for item archiving.\n- The vaultwarden/server:1.36.0 Docker image tag was published on 2026-05-03.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.vaultwarden",
   "version": "1.36.0",
   "categories": [
@@ -31,8 +31,8 @@
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 80559488,
-    "arm": 78228837,
-    "arm64": 80485641
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0
   }
 }

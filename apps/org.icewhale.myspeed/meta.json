@@ -21,7 +21,7 @@
   "docs": "https://docs.myspeed.dev",
   "title": "MySpeed",
   "release_note": "- Added storage management.\n- Added LibreSpeed and Cloudflare Speed support.\n- Added Prometheus endpoint and notification-related improvements.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.myspeed",
   "version": "1.0.9",
   "categories": [
@@ -29,8 +29,8 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 62274369,
-    "arm": 65131777,
-    "arm64": 61892506
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0
   }
 }

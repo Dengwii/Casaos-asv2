@@ -5,7 +5,7 @@ services:
       PGID: "1000"
       PUID: "1000"
       TZ: Europe/London
-    image: linuxserver/lidarr:3.1.0@sha256:199d730a35aec599609e6b334df45bb246a7012d5ee90ee6a4f165870ca1e8c9
+    image: linuxserver/lidarr:3.1.0@sha256:d75ba268f8fb91e3da95b91e71de71ab398689275d2664050484bec2aba4d90e
     deploy:
       resources:
         reservations:
@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.lidarr
   main: lidarr
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.lidarr/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.lidarr/assets/icon.svg
   title:
     en_US: Lidarr
   port_map: "8686"

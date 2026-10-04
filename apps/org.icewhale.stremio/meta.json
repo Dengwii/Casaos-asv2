@@ -20,7 +20,7 @@
   "docs": "https://github.com/tsaridas/stremio-docker#readme",
   "title": "Stremio",
   "release_note": "- v1.3.4 refreshes the Stremio Docker image from the upstream release stream.\n- Uses Stremio Web v5.0.0-beta.37.\n- Uses the desktop server script URL for server v4.20.16.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.stremio",
   "version": "1.3.4",
   "categories": [
@@ -28,7 +28,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 196099390,
-    "arm64": 99729913
+    "amd64": 0,
+    "arm64": 0
   }
 }

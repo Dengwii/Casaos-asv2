@@ -21,7 +21,7 @@
   "docs": "https://docs.linuxserver.io/images/docker-duckdns/",
   "title": "duckdns",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.duckdns",
   "version": "0.0.1",
   "categories": [
@@ -29,7 +29,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 15717196,
-    "arm64": 16832123
+    "amd64": 15719045,
+    "arm64": 16834192
   }
 }

@@ -22,7 +22,7 @@
   "docs": "https://docs.openwebui.com",
   "title": "Open WebUI",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.openwebuiollama",
   "version": "0.9.6",
   "categories": [

@@ -24,7 +24,7 @@
   "docs": "https://docs.openclaw.ai/",
   "title": "OpenClaw",
   "release_note": "- OpenClaw 2026.9.6 improves managed-update feedback, recovery of unfinished work after restarts, and retained-state migration during supported container upgrades.\n- Adds complete 30-day Usage reporting, a GitHub reader, and Files, Memory, and Skills for configured remote workspaces.\n- Adds optional Decision Models and support for Claude Opus 5.5, GPT-6 Sol and Luna, and Grok 4.7.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.openclaw",
   "version": "2026.9.6",
   "categories": [

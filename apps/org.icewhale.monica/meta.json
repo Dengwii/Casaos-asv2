@@ -21,7 +21,7 @@
   "docs": "https://docs.monicahq.com",
   "title": "Monica",
   "release_note": "- v4.1.2 fixes contact listing updates that changed the updated_at date for all contacts.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.monica",
   "version": "4.1.2",
   "categories": [
@@ -29,7 +29,7 @@
   ],
   "min_memory": 536870912,
   "min_image_size": {
-    "amd64": 330898254,
-    "arm64": 321465802
+    "amd64": 0,
+    "arm64": 0
   }
 }

@@ -23,7 +23,7 @@
   "docs": "https://wiki.servarr.com/readarr",
   "title": "Readarr",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.readarr",
   "version": "0.3.10-develop",
   "categories": [
@@ -31,7 +31,7 @@
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 75650231,
-    "arm64": 74611929
+    "amd64": 0,
+    "arm64": 0
   }
 }

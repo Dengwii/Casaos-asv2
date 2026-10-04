@@ -20,7 +20,7 @@
   "docs": "https://github.com/homebridge/homebridge/wiki",
   "title": "Homebridge",
   "release_note": "- Latest upstream release v1.9.0 adds updateDisplayName().\n- It fixes handleUpdatePlatformAccessories() and allows Characteristic.SerialNumber to be set through config.json.\n- The release includes minor dependency updates and uses hap-nodejs v0.12.3.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.homebridge",
   "version": "2.1.0",
   "categories": [
@@ -28,8 +28,8 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 438325854,
-    "arm": 377846621,
-    "arm64": 433081887
+    "amd64": 430374433,
+    "arm": 369265056,
+    "arm64": 425417110
   }
 }

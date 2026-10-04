@@ -19,7 +19,7 @@
   "docs": "https://support.jdownloader.org/",
   "title": "JDownloader2",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.jdownloader2",
   "version": "26.3.1",
   "categories": [
@@ -27,7 +27,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 203408739,
-    "arm64": 195729255
+    "amd64": 203704018,
+    "arm64": 195871011
   }
 }

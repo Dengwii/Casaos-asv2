@@ -1,7 +1,7 @@
 name: psitransfer
 services:
   psitransfer:
-    image: psitrax/psitransfer:v2.4.1@sha256:8549618cad4ea18e412bbccacc3a0352706889ad80bf0fb57615d63c336c09cf
+    image: psitrax/psitransfer:v2.4.1
     container_name: psitransfer
     ports:
       - target: "3000"
@@ -36,7 +36,7 @@ x-casaos:
     sv_SE: PsiTransfer
     tr_TR: PsiTransfer
     zh_CN: PsiTransfer
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.psitransfer/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.psitransfer/assets/icon.png
   index: /
   main: psitransfer
   port_map: "13001"

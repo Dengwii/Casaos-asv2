@@ -24,7 +24,7 @@ services:
 x-casaos:
   id: org.icewhale.crafty
   main: crafty
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.crafty/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.crafty/assets/icon.svg
   title:
     en_US: Crafty
   index: /panel

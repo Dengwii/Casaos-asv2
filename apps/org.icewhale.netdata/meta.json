@@ -21,7 +21,7 @@
   "docs": "https://learn.netdata.cloud/docs",
   "title": "Netdata",
   "release_note": "- v2.10.3 fixes an eBPF per-PID shared-memory pool leak that could fill the pool and peg a CPU core.\n- SNMP uptime collection now uses snmpEngineTime first to avoid TimeTicks wraparound, while keeping the existing systemUptime metric name.\n- Dynamic configuration name validation and go.d/powerstore hardware decoding were fixed.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.netdata",
   "version": "2.10.3",
   "categories": [
@@ -29,8 +29,8 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 359145797,
-    "arm": 330601860,
-    "arm64": 345906167
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0
   }
 }

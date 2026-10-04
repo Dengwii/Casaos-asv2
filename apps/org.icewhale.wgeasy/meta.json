@@ -25,7 +25,7 @@
   "docs": "https://wg-easy.github.io/wg-easy/v15.1/",
   "title": "WireGuard Easy",
   "release_note": "- v13.0.0 introduces the new h3 framework.\n- It adds UI_CHART_TYPE and includes bug fixes.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.wgeasy",
   "version": "13.0.0",
   "categories": [

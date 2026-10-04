@@ -23,7 +23,7 @@
   "docs": "https://docs.romm.app/",
   "title": "RomM",
   "release_note": "- 4.8.1 makes per-platform homepage stats opt-in so the homepage no longer fetches them by default.\n- Adds outbound HTTP proxy support for backend requests and includes 4.8 hotfixes.\n- Fixes cleanup_missing_roms task status errors, registration invite redirects losing tokens, and related mobile link/BIOS hash issues.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.romm",
   "version": "4.8.1",
   "categories": [
@@ -31,7 +31,7 @@
   ],
   "min_memory": 536870912,
   "min_image_size": {
-    "amd64": 538355361,
-    "arm64": 534926069
+    "amd64": 0,
+    "arm64": 0
   }
 }

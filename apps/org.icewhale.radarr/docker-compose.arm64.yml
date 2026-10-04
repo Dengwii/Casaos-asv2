@@ -5,7 +5,7 @@ services:
       PGID: $PGID
       PUID: $PUID
       TZ: $TZ
-    image: linuxserver/radarr:6.3.0@sha256:0d11d7541029634419d73257e20c97042cf6684b9b51d32fe280759eac60ded2
+    image: linuxserver/radarr:6.3.0
     deploy:
       resources:
         reservations:
@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.radarr
   main: radarr
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.radarr/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.radarr/assets/icon.svg
   title:
     en_US: Radarr
   index: /

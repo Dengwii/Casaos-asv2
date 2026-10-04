@@ -1,7 +1,7 @@
 name: monica
 services:
   monica:
-    image: monica:4.1.2@sha256:89c7d395d59e8d29e3361b09f3b563c54d89dc32059ea362d02def582f2cd4ac
+    image: monica:4.1.2@sha256:c2b02243faa4769b2bab61052d61539d73c6f989e3ca963da23a402d6a1d53f6
     container_name: monica
     deploy:
       resources:
@@ -28,7 +28,7 @@ services:
     depends_on:
       - monica-db
   monica-db:
-    image: mariadb:11.8.2@sha256:bb961ca672bcbde3df9e385d4ce84b31bb826792711c777f6ce97e49fcd9d38c
+    image: mariadb:11.8.2
     container_name: monica-db
     deploy:
       resources:
@@ -52,7 +52,7 @@ networks:
 x-casaos:
   id: org.icewhale.monica
   main: monica
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.monica/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.monica/assets/icon.svg
   scheme: ""
   port_map: "18930"
   index: /

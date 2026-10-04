@@ -27,7 +27,7 @@
   "docs": "https://docs.craftycontrol.com",
   "title": "Crafty",
   "release_note": "- v4.10.4 fixes servers with registered webhooks failing to start.\n- This update follows the Crafty v4.10.4 GitLab release.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.crafty",
   "version": "4.10.4",
   "categories": [

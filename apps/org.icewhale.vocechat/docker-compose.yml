@@ -22,7 +22,7 @@ services:
 x-casaos:
   id: org.icewhale.vocechat
   main: vocechat
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.vocechat/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.vocechat/assets/icon.svg
   title:
     en_US: VoceChat
   index: /

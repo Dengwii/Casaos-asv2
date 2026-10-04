@@ -3,7 +3,7 @@ version: '2'
 services:
   homebridge:
     # had to use homebridge/homebridge:latest because there are no versions listed
-    image: homebridge/homebridge:latest@sha256:4b9fb799e4fa3883e11c3afd854722c0e12646881f80aea30df4a97f099f5340
+    image: homebridge/homebridge:latest@sha256:f9358d5497d3d8171c436a0400445397f4f8704cf773ed660fdb54128ac0b7b8
     restart: always
     network_mode: host
     volumes:
@@ -16,7 +16,7 @@ services:
 x-casaos:
   id: org.icewhale.homebridge
   main: homebridge
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.homebridge/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.homebridge/assets/icon.svg
   title:
     en_US: Homebridge
   index: /

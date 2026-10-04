@@ -25,7 +25,7 @@
   "docs": "https://nzbget.com/documentation",
   "title": "Nzbget",
   "release_note": "- NZBGet 26.1 improves archived NZB handling support.\n- Adds NzbDirArchiveScan for scanning zip, rar, 7z, and other archives in NzbDir.\n- Uses the LinuxServer 26.1.20260522 image build for this release line.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.nzbget",
   "version": "26.1.20260522",
   "categories": [
@@ -33,7 +33,7 @@
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 46776638,
-    "arm64": 47469645
+    "amd64": 0,
+    "arm64": 0
   }
 }

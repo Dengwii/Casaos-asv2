@@ -52,7 +52,7 @@ networks:
 x-casaos:
   id: org.icewhale.monica
   main: monica
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.monica/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.monica/assets/icon.svg
   scheme: ""
   port_map: "18930"
   index: /

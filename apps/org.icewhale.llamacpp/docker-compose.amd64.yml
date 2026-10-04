@@ -3,7 +3,7 @@
 name: llamacpp
 services:
   llamacpp:
-    image: ghcr.io/ggml-org/llama.cpp:server@sha256:5d6c6ac1926f198ad94cbbcb491d056bfc1d65c6a1326c10565053d769475a3d
+    image: ghcr.io/ggml-org/llama.cpp:server@sha256:1cdfea0828170c34d56a8a6d9fc5a0898e8bca3762e5ec6be0c01032f7f7bde8
     container_name: llamacpp
     ports:
       - target: 8080
@@ -26,7 +26,7 @@ x-casaos:
   main: llamacpp
   index: /
   port_map: '18080'
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.llamacpp/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.llamacpp/assets/icon.svg
   title:
     ca_ES: llama.cpp
     cs_CZ: llama.cpp

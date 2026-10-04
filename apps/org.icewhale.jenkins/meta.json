@@ -18,7 +18,7 @@
   "docs": "https://www.jenkins.io/doc/",
   "title": "Jenkins CI/CD",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.jenkins",
   "version": "2.569.0",
   "categories": [

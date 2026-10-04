@@ -5,7 +5,7 @@ services:
       PGID: "1000"
       PUID: "1000"
       TZ: Europe/London
-    image: linuxserver/smokeping:2.9.0@sha256:613b5cee1590aa106bdb8034eeeeef7129fbfcba90d1239c32baf17594ca1d67
+    image: linuxserver/smokeping:2.9.0
     deploy:
       resources:
         reservations:
@@ -27,7 +27,7 @@ services:
 x-casaos:
   id: org.icewhale.smokeping
   main: smokeping
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.smokeping/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.smokeping/assets/icon.svg
   title:
     en_US: Smokeping
   port_map: "10280"

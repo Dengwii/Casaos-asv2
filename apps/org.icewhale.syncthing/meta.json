@@ -21,7 +21,7 @@
   "docs": "https://docs.syncthing.net/",
   "title": "Syncthing",
   "release_note": "Syncthing 1.29.7 is an upstream release; see official release notes for detailed fixes and changes.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.syncthing",
   "version": "1.29.7",
   "categories": [
@@ -29,7 +29,7 @@
   ],
   "min_memory": 268435456,
   "min_image_size": {
-    "amd64": 22703078,
-    "arm64": 23075604
+    "amd64": 0,
+    "arm64": 0
   }
 }

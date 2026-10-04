@@ -22,7 +22,7 @@
   "docs": "https://docs.portainer.io",
   "title": "Portainer",
   "release_note": "- 2.31.3 adds the --trusted-origins CLI option and TRUSTED_ORIGINS environment variable.\n- The option is used to configure allowed domains when Portainer is behind a reverse proxy and avoids Origin invalid errors.\n- The release documents known limitations for Podman support.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.portainer",
   "version": "2.31.3",
   "categories": [
@@ -30,8 +30,8 @@
   ],
   "min_memory": 33554432,
   "min_image_size": {
-    "amd64": 58439452,
-    "arm": 54548393,
-    "arm64": 54955337
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0
   }
 }

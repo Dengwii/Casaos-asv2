@@ -1,7 +1,7 @@
 name: twingate-connector
 services:
   twingate-connector:
-    image: twingate/connector:1@sha256:44417930a1e0e75d2ae96878129e49f202311c2e7bab129ac1ad9e290f126b96
+    image: twingate/connector:1
     container_name: twingate-connector
     command:
       - /connectord
@@ -25,7 +25,7 @@ services:
 x-casaos:
   id: org.icewhale.twingateconnector
   main: twingate-connector
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.twingateconnector/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.twingateconnector/assets/icon.svg
   title:
     en_US: Twingate
   index: /

@@ -22,7 +22,7 @@
   "docs": "https://wiki.servarr.com/lidarr",
   "title": "Lidarr",
   "release_note": "- v3.1.0 adds private IPv6 networks and sets known startup networks to RFC 1918 ranges.\n- Fixes include qBittorrent /login API success checking.\n- Docker users are advised to update the container image rather than update inside the container.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.lidarr",
   "version": "3.1.0",
   "categories": [
@@ -30,7 +30,7 @@
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 122699450,
-    "arm64": 118384146
+    "amd64": 122712173,
+    "arm64": 118393417
   }
 }

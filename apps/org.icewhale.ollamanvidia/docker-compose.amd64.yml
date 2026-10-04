@@ -1,7 +1,7 @@
 name: ollama-nvidia
 services:
   ollama:
-    image: ollama/ollama:0.9.5@sha256:6f61daee5eac5dadf5b8c16bda5f4f600306c0ca655c9847dadcf9a16f214ba6
+    image: ollama/ollama:0.9.5
     container_name: ollama
     deploy:
       resources:
@@ -25,7 +25,7 @@ services:
 x-casaos:
   id: org.icewhale.ollamanvidia
   main: ollama
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.ollamanvidia/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.ollamanvidia/assets/icon.svg
   scheme: http
   port_map: "11434"
   index: /

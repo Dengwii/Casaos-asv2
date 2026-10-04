@@ -1,7 +1,7 @@
 name: teable
 services:
   teable:
-    image: teableio/teable:latest@sha256:c135019ad7cc47fbb88911fc1ce4ffabed872ad5750b8b9bbef4d5afed87fa06
+    image: teableio/teable:latest
     container_name: teable
     restart: unless-stopped
     deploy:
@@ -31,7 +31,7 @@ services:
       teable-cache:
         condition: service_healthy
   teable-db:
-    image: postgres:15@sha256:84b5935df871dad6149c0564e646ab3cafd6a83b42d47f72b38efe45a95d8486
+    image: postgres:15
     restart: unless-stopped
     container_name: teable-db
     deploy:
@@ -57,7 +57,7 @@ services:
       timeout: 3s
       retries: 3
   teable-cache:
-    image: redis:7.2.4@sha256:4da694ba727afad9a027c075a3e32356affea4db13482d489822107dcf09d4ed
+    image: redis:7.2.4
     restart: unless-stopped
     container_name: teable-cache
     deploy:
@@ -107,7 +107,7 @@ x-casaos:
     sv_SE: Teable
     tr_TR: Teable
     zh_CN: Teable
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.teable/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.teable/assets/icon.svg
   main: teable
   port_map: '3200'
   index: /

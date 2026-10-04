@@ -22,7 +22,7 @@
   "docs": "https://docs.n8n.io",
   "title": "n8n",
   "release_note": "- n8n 2.22.3 surfaces SSO claims and role mapping diagnostics.\n- The n8nio/n8n:2.22.3 Docker image tag was published on 2026-05-25.\n- This advances the app from the 1.123.x image line to the current 2.22.x release line.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.n8n",
   "version": "2.22.3",
   "categories": [
@@ -30,7 +30,7 @@
   ],
   "min_memory": 335544320,
   "min_image_size": {
-    "amd64": 385753818,
-    "arm64": 386402897
+    "amd64": 0,
+    "arm64": 0
   }
 }

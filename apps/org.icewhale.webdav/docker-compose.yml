@@ -29,7 +29,7 @@ services:
 x-casaos:
   id: org.icewhale.webdav
   main: webdav
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.webdav/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.webdav/assets/icon.svg
   title:
     en_US: WebDAV
   index: /

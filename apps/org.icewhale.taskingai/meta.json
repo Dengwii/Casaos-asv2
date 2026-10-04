@@ -25,7 +25,7 @@
   "docs": "https://docs.tasking.ai/",
   "title": "TaskingAI",
   "release_note": "- v0.3.0 adds Markdown rendering and image uploads in Playground.\n- An OpenAI-compatible chat completions API was introduced for LLM tasks and agent invocations.\n- Inference and Plugin services were open sourced, with fixes for Gemini function error logs, wildcard model inference, Docker Compose server versioning, and UI navigation/search.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.taskingai",
   "version": "0.3.0",
   "categories": [
@@ -33,7 +33,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 1178907287,
-    "arm64": 1166410562
+    "amd64": 159829743,
+    "arm64": 0
   }
 }

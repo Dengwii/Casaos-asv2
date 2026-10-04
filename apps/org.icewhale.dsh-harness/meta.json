@@ -23,7 +23,7 @@
   "docs": "https://api-docs.deepseek.com/",
   "title": "DeepSeekHarness",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.dsh-harness",
   "version": "0.1.0",
   "categories": [
@@ -31,7 +31,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 133937614,
-    "arm64": 133879929
+    "amd64": 204981114,
+    "arm64": 207804448
   }
 }

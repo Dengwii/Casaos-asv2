@@ -5,7 +5,7 @@ services:
       PGID: $PGID
       PUID: $PUID
       TZ: $TZ
-    image: linuxserver/sonarr:4.0.19@sha256:64e9c8a2315516837fd809d53e2d2006bf8a17787754dc6474d2c5964d862f6e
+    image: linuxserver/sonarr:4.0.19
     deploy:
       resources:
         reservations:
@@ -30,7 +30,7 @@ services:
 x-casaos:
   id: org.icewhale.sonarr
   main: sonarr
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.sonarr/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.sonarr/assets/icon.svg
   title:
     en_US: Sonarr
   index: /

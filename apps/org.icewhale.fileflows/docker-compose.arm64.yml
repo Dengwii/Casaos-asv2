@@ -9,7 +9,7 @@ services:
       PUID: $PUID
       TZ: $TZ
     hostname: fileflows
-    image: revenz/fileflows:stable@sha256:d0f4521eeb1fc19eb579473a7eb6cb30dc3eb0b4bc4af2f4442c584ff162a49e
+    image: revenz/fileflows:stable@sha256:44e85ddf661d0ddfa8add37b38279bc4350a7ea9b9f539e0427bce9b6317cf62
     restart: unless-stopped
     ports:
       - target: 5000
@@ -43,5 +43,5 @@ x-casaos:
   title:
     en_US: FileFlows
   index: /
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.fileflows/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.fileflows/assets/icon.svg
   version: "0.0.1"

@@ -6,7 +6,7 @@ services:
       PGID: $PGID
       PUID: $PUID
       TZ: $TZ
-    image: linuxserver/deluge:2.2.0@sha256:5454785534409dda947242914af74d5c0259a329c83ddaec8da57b26b0d8381d
+    image: linuxserver/deluge:2.2.0@sha256:b2e738890808e1ad4fa9621caee4c8abff6f6f4e467891c73565421fd312c49f
     deploy:
       resources:
         reservations:
@@ -34,7 +34,7 @@ services:
 x-casaos:
   id: org.icewhale.deluge
   main: deluge
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.deluge/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.deluge/assets/icon.svg
   title:
     en_US: Deluge
   index: /

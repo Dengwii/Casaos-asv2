@@ -22,7 +22,7 @@
   "docs": "https://github.com/thu-ml/TurboDiffusion#readme",
   "title": "TurboDiffusion(Nvidia GPU)",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.turbodiffusionnvidia",
   "version": "2026.03.12",
   "categories": [
@@ -30,6 +30,6 @@
   ],
   "min_memory": 42949672960,
   "min_image_size": {
-    "amd64": 21482046912
+    "amd64": 0
   }
 }

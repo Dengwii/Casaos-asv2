@@ -25,7 +25,7 @@
   "docs": "https://github.com/AdguardTeam/AdGuardHome/wiki",
   "title": "AdGuard Home",
   "release_note": "- DNS64 treating unresolved CNAME/DNAME answers as the end of resolution chain\n- Blocked requests without an EDNS(0) OPT record",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.adguardhome",
   "version": "0.107.79",
   "categories": [

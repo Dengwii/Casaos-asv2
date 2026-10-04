@@ -2,7 +2,7 @@ name: peanut
 
 services:
   peanut:
-    image: brandawg93/peanut:6.0.0@sha256:81c0511efa48728cedc7954a7ff8cff5f3069615d6925af66741029dc526f2a1
+    image: brandawg93/peanut:6.0.0
     container_name: PeaNUT
     restart: unless-stopped
     volumes:
@@ -37,7 +37,7 @@ x-casaos:
     sv_SE: PeaNUT
     tr_TR: PeaNUT
     zh_CN: PeaNUT
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.peanut/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.peanut/assets/icon.svg
   main: peanut
   port_map: "8084"
   index: /

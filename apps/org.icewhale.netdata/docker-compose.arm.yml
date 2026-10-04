@@ -10,7 +10,7 @@ services:
       resources:
         limits:
           memory: 1794M
-    image: netdata/netdata:v2.10.3@sha256:b1c84e18976dcc7e724f6b14fbba5ece9f734dc0b9a8dcec80ea86dfc6ac289b
+    image: netdata/netdata:v2.10.3
     pid: host
     ports:
       - target: 19999
@@ -51,7 +51,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.netdata
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.netdata/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.netdata/assets/icon.svg
   index: /
   port_map: "19999"
   scheme: http

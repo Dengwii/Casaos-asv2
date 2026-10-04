@@ -23,7 +23,7 @@
   "docs": "https://github.com/mylar3/mylar3/wiki",
   "title": "Mylar3",
   "release_note": "- LinuxServer image 0.9.0 updates Mylar3 to the 0.9.0 container build.\n- The image is published for amd64 and arm64 on Docker Hub.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.mylar3",
   "version": "0.9.0",
   "categories": [
@@ -31,7 +31,7 @@
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 192750740,
-    "arm64": 187523756
+    "amd64": 0,
+    "arm64": 0
   }
 }

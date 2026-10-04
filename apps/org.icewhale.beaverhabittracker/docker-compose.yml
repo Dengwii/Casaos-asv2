@@ -27,7 +27,7 @@ services:
 x-casaos:
   id: org.icewhale.beaverhabittracker
   main: beaverhabittracker
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.beaverhabittracker/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.beaverhabittracker/assets/icon.svg
   scheme: http
   port_map: "15580"
   index: /

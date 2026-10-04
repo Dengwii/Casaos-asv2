@@ -23,7 +23,7 @@
   "docs": "https://github.com/Tautulli/Tautulli-Wiki/wiki",
   "title": "Tautulli",
   "release_note": "- Tautulli 2.17.1 fixes Tautulli Remote App notification sending and folder path browsing errors.\n- Fixes CVE-2026-41065 in newsletter custom template directory handling.\n- Adds Simkl URL notification parameters and AV1 and Opus media flag images.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.tautulli",
   "version": "2.17.1",
   "categories": [
@@ -31,7 +31,7 @@
   ],
   "min_memory": 67108864,
   "min_image_size": {
-    "amd64": 57574941,
-    "arm64": 58406078
+    "amd64": 0,
+    "arm64": 0
   }
 }

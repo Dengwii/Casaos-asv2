@@ -1,7 +1,7 @@
 name: jdownloader2
 services:
   jdownloader2:
-    image: jlesage/jdownloader-2:latest@sha256:cb9be1f3c3268dd6a6ed8a559b7ed78e2ca3e7f1cec97c17fa87afceaec1bb80
+    image: jlesage/jdownloader-2:latest@sha256:61d6ecd204da56225856060747cba6e29dd70a2dcdf075dfaeb118c4f37ddfce
     restart: unless-stopped
     environment:
       - USER_ID=$PUID
@@ -32,7 +32,7 @@ services:
 x-casaos:
   id: org.icewhale.jdownloader2
   main: jdownloader2
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.jdownloader2/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.jdownloader2/assets/icon.svg
   port_map: "5800"
   scheme: http
   title:

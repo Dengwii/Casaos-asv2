@@ -16,7 +16,7 @@ services:
 x-casaos:
   id: org.icewhale.cloudflared
   main: cloudflared
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.cloudflared/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.cloudflared/assets/icon.svg
   title:
     en_US: Cloudflared
   port_map: '14333'

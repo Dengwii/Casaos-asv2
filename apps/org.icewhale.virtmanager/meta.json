@@ -22,7 +22,7 @@
   "docs": "https://github.com/m-bers/docker-virt-manager#readme",
   "title": "Virtual Machine Manager",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.virtmanager",
   "version": "0.0.1",
   "categories": [
@@ -30,7 +30,7 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 191632247,
-    "arm64": 179334094
+    "amd64": 0,
+    "arm64": 0
   }
 }

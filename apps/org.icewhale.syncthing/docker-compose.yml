@@ -36,7 +36,7 @@ services:
 x-casaos:
   id: org.icewhale.syncthing
   main: syncthing
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.syncthing/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.syncthing/assets/icon.svg
   title:
     en_US: Syncthing
   index: /

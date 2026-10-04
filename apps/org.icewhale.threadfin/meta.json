@@ -16,7 +16,7 @@
   "docs": "https://github.com/Threadfin/Threadfin#readme",
   "title": "Threadfin",
   "release_note": "Threadfin 1.2.37 clears XMLTV cache during updates and adds older glibc to the build process.",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.threadfin",
   "version": "1.2.37",
   "categories": [
@@ -24,8 +24,8 @@
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 298723521,
-    "arm": 219205301,
-    "arm64": 241781810
+    "amd64": 0,
+    "arm": 0,
+    "arm64": 0
   }
 }

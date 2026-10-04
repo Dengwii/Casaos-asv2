@@ -29,7 +29,7 @@ services:
     privileged: false
 x-casaos:
   id: org.icewhale.albyhub
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.albyhub/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.albyhub/assets/icon.svg
   index: /
   port_map: "58000"
   scheme: http

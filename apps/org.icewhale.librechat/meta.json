@@ -19,7 +19,7 @@
   "docs": "https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints",
   "title": "LibreChat",
   "release_note": "",
-  "base_url": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages",
+  "base_url": "https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages",
   "id": "org.icewhale.librechat",
   "version": "0.8.7-rc1",
   "categories": [
@@ -27,6 +27,6 @@
   ],
   "min_memory": 3745513472,
   "min_image_size": {
-    "amd64": 1988609229
+    "amd64": 1986133704
   }
 }

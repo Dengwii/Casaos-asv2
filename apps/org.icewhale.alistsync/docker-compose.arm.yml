@@ -15,7 +15,7 @@ services:
 x-casaos:
   id: org.icewhale.alistsync
   main: alist-sync
-  icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@gh-pages/apps/org.icewhale.alistsync/assets/icon.svg
+  icon: https://cdn.jsdelivr.net/gh/Dengwii/Casaos-asv2@gh-pages/apps/org.icewhale.alistsync/assets/icon.svg
   title:
     en_US: Alist-Sync
   port_map: "52441"
